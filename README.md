@@ -5,6 +5,10 @@ Exploring web scraping by borrowing code from Data School and trying to apply it
 
 https://medium.com/@asishraz/scraping-data-from-imdb-top-35-movies-using-python-48d1986dc6c9
 
+https://www.pythonforbeginners.com/beautifulsoup/scraping-websites-with-beautifulsoup
+
+
+
 import requests
 r = requests.get('https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html')
 
