@@ -7,7 +7,11 @@ https://medium.com/@asishraz/scraping-data-from-imdb-top-35-movies-using-python-
 
 https://www.pythonforbeginners.com/beautifulsoup/scraping-websites-with-beautifulsoup
 
+https://medium.com/datadriveninvestor/a-simple-guide-to-creating-predictive-models-in-python-part-1-8e3ddc3d7008
+------> predictive modeling is step 2
 
+
+Code borrowed from Dataschool=
 
 import requests
 r = requests.get('https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html')
